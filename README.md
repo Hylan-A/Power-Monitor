@@ -27,5 +27,5 @@
  - ESP32
  - TFT display using TFT_eSPI
  - MQTT broker on local network
-// - Power monitor publishing sensor data
-//=====================================================================
+ - Power monitor publishing sensor data
+
