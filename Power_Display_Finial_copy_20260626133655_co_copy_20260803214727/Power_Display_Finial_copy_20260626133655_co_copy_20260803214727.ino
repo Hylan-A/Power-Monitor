@@ -399,5 +399,5 @@ if (WiFi.status() != WL_CONNECTED)
 
 
   //delay(500);
-  delay(50);
+  delay(100);
 }
